@@ -1,1 +1,1 @@
-My collection of python scripts
+OpenAI Python scripts with user input prompt
